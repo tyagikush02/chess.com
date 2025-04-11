@@ -1,13 +1,11 @@
 {
-  "homepage": "https://tyagikush02.github.io/chess.com/",
+  
   "name": "chess.com",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "predeploy":"npm run build",
-    "deploy":"gh-pages -d dist"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
